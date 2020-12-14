@@ -10,4 +10,5 @@ python3 -m venv ibcenv
 pip install -r requirement.txt
 python bot.py
 ```
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Darshanjk/deletebot)
 
